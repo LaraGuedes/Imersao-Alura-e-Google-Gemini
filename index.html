@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Pontos turísticos</title>
+</head>
+
+<body>
+    <header>
+
+        <div class="imagem-header">
+            <div class="texto-header">
+                <button class="login"> Login </button>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section class="titulo">
+            <h1>Descubra seu destino</h1>
+            <p>
+                Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do
+                Brasil! Pesquise os pontos mais importantes e surpreenda-se com as belezas e histórias que cada região
+                tem a oferecer. Sua próxima grande aventura começa aqui!
+            </p>
+        </section>
+        <section class="pesquisar">
+            <input type="text" placeholder="Descubra o Brasil: sua próxima aventura te espera." id="campo-pesquisa">
+            <div class="button" onclick="pesquisar()"> <img src="./img/lupa.png" alt="Lupa" width="100%"></div>
+        </section>
+        <section class="elementos-resultados">
+            <div class="resultados-pesquisa" id="resultados-pesquisa">
+            </div>
+
+
+        </section>
+    </main>
+    <footer>
+        <p>@2024 - Lara Guedes - Destinos de viagem no Brasil. <br> Todos os direitos reservados</p>
+    </footer>
+    <script src="./dados.js"></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>

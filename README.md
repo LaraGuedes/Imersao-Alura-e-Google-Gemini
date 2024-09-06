@@ -2,6 +2,8 @@
 
 Imersão Alura + Google Gemini!
 
+Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Pesquise os pontos mais importantes e surpreenda-se com as belezas e histórias que cada região tem a oferecer. Sua próxima grande aventura começa aqui!
+
 ### O que é esse projeto?
 
 Prepare-se para uma aventura pelo Brasil! Este projeto é uma aplicação que te permite explorar os melhores destinos turísticos do nosso país de forma simples e envolvente.

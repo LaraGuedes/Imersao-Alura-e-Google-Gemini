@@ -11,12 +11,16 @@ Prepare-se para uma aventura pelo Brasil! Este projeto é uma aplicação que te
 ### Como funciona?
 
 Pesquise: Digite o nome do estado ou a cidade que você deseja explorar e clique na lupa.
-Explore: Os resultados da sua busca aparecerão com imagens, descrições e links para mais detalhes sobre cada destino. 
+</br>
+Explore: Os resultados da sua busca aparecerão com imagens, descrições e links para mais detalhes sobre cada destino. </br>
 Descubra: Clique no link "Mais informações" para saber ainda mais sobre o destino que te interessou.
+
+<img src="./tela1.png" width="100%">
+<img src="./tela2.png" width="100%">
 
 ### Tecnologias utilizadas:
 
-HTML: A estrutura da página, a base de tudo!
-CSS: Deixando tudo visualmente atraente e organizado.
+HTML: A estrutura da página, a base de tudo!</br>
+CSS: Deixando tudo visualmente atraente e organizado.</br>
 JavaScript: A magia por trás da pesquisa e exibição dos resultados. 🌟
 

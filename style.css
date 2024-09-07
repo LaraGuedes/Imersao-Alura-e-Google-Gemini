@@ -111,6 +111,10 @@ main {
     border-radius: 50px;
 }
 
+.button{
+    border: none;
+}
+
 .pesquisar .button {
     width: 40px;
     height: 40px;

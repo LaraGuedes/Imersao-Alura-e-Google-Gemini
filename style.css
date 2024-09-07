@@ -138,7 +138,11 @@ section {
     margin-top: 1rem;
     padding: 1rem;
     border-radius: 0.6rem;
-    display: inline-flex;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
 }
 
 .resultado-nome {
@@ -166,11 +170,12 @@ section {
 /* Resultados */
 .elementos-resultados {
     width: 100%;
-    max-width: 900px;
+    max-width: 1200px;
 
     display: flex;
     align-items: center;
     flex-direction: row-reverse;
+    
 }
 
 
@@ -180,9 +185,10 @@ section {
     object-fit: cover;
 }
 
-.item-resultado .content {
+.item-resultado {
     padding: 15px;
     background-color: #fff;
+    
 }
 
 .item-resultado h2 {
@@ -201,11 +207,15 @@ section {
     margin: 8px 0;
 }
 
+.descricao-meta{
+    text-align: left;
+}
+
 .item-resultado {
     margin-bottom: 1rem;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     width: 400px;
-    margin-right: 30px;
+    display: inline-block;
 }
 
 .item-resultado h2 {

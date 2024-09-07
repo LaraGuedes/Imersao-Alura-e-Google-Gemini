@@ -26,7 +26,7 @@ let pontosTuristicosBrasil = [
     {
         nome: "Floresta Amazônica",
         estado: "Amazonia",
-        localizacao: "Amazônia, Brasil",
+        localizacao: "Amazonas, Brasil",
         descricao: "A maior floresta tropical do mundo, um tesouro de biodiversidade.",
         link: "https://pt.wikipedia.org/wiki/Floresta_Amazônica",
         imagem: "./img/amazonia.jpg"
@@ -110,7 +110,7 @@ let pontosTuristicosBrasil = [
         estado: "Rio Grande do Sul",
         localizacao: "Rio Grande do Sul, Brasil",
         descricao: "Destinos charmosos com arquitetura europeia, chocolates artesanais e paisagens montanhosas.",
-        link: "https://www.gramado.net/",
+        link: "https://pt.wikipedia.org/wiki/Gramado",
         imagem: "./img/gramado.jpg"
     },
     {
